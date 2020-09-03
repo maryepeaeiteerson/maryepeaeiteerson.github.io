@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maryepeaeiteerson.github.io/sitemap.xml.gz
